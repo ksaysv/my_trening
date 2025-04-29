@@ -1,2 +1,0 @@
-ctrl+C
-ctrl+V
